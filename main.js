@@ -23,7 +23,7 @@ showVariant = (letter) => {
   if (letter === "p") {
     return "paper";
   } else if (letter === "s") {
-    return "sissors";
+    return "scissors";
   } else {
     return "rock";
   }
